@@ -1,0 +1,10 @@
+---
+applications:
+- name: rana01
+  memory: 512M
+  instances: 1
+  path: target/cfdemo-0.0.1-SNAPSHOT.war
+  domain: cfapps.io
+  
+  
+ 
